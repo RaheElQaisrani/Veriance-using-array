@@ -1,1 +1,0 @@
-# Veriance-using-array
